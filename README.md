@@ -1,6 +1,6 @@
 # Hi there I`m Maria 👋
 
-  I'm a passionate backend developer who recently completed comprehensive Python programming courses and I'm actively seeking opportunities to contribute to innovative projects.
+  I'm a passionate developer who recently completed comprehensive Python programming courses and I'm actively seeking opportunities to contribute to innovative projects.
 
 ## 🔧 Technologies & tools I have learned to work with:
   <p align="left">
@@ -34,4 +34,4 @@
 
  
 ## 📊 GitHub Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=mariami57&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariami57&theme=default)
